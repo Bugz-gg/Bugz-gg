@@ -5,6 +5,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 * 🌍  I'm based in Paris, France.
 * 🖥️  Check my portfolio at [Portfolio](https://www.ibechoual-portfolio.codes/).
 * 🧠  I'm learning Hadoop, R and Apache Spark.
+* 🌱 Currently switching from Vscode -> Neovim.
 
 <h2 align="left">🌐 Social:</h2>
 <p align="left"> <a href="https://www.github.com/Bugz-gg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilyes-bechoual/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="mailto:bechoual.ilyes@gmail.com" target="_blank" rel="noreferrer">
@@ -35,10 +36,24 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/10/formation-git.png" alt="git" width="40" height="40" /></a>
   <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
+  <a href="https://vim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="neovim" width="40" height="40" /></a>
+  <a href="https://code.visualdio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" alt="latex" width="70" height="40" /></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" /></a>
+
+<h2 align="left">Incoming Tools:</h2>
+
+<h3 align="left">🔧 Programming Languages:</h3>
+<p align="left">
+  <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/48/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo"/>  
+<h3 align="left">🔧 Big Data and Analytics:</h3>
+<p align="left">
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache spark" width="40" height="40" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" /></a>
+</p>
   
 <h3 align="left">Badges:</h3>
 <a href="https://github.com/next1981" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugz-gg&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
