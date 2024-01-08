@@ -48,6 +48,11 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 <p align="left">
   <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/48/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo"/>  
+<h3 align="left">🔧 Tools</h3>
+<p align="left">
+  <a href="https://amazonwebservices.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40" /></a>
+  <a href="https://docker.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+</p>
 <h3 align="left">🔧 Big Data and Analytics:</h3>
 <p align="left">
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache spark" width="40" height="40" /></a>
@@ -57,7 +62,6 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   
 <h3 align="left">Badges:</h3>
 <a href="https://github.com/next1981" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugz-gg&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 **Have a nice day !**
 
