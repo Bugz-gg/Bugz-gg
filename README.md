@@ -4,7 +4,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 * 🌍  I'm based in Paris, France.
 * 🖥️  Check my portfolio at [Portfolio](https://www.ibechoual-portfolio.codes/).
-* 🧠  I'm learning Hadoop, R and Apache Spark.
+* 🧠  I'm learning ML with Sklearn and Pytorch.
 * 🌱 I use Neovim btw.
 
 <h2 align="left">🌐 Social:</h2>
