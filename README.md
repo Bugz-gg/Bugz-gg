@@ -5,7 +5,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 * 🌍  I'm based in Paris, France.
 * 🖥️  Check my portfolio at [Portfolio](https://www.ibechoual-portfolio.codes/).
 * 🧠  I'm learning Hadoop, R and Apache Spark.
-* 🌱 Currently switching from Vscode -> Neovim.
+* 🌱 I use Neovim btw.
 
 <h2 align="left">🌐 Social:</h2>
 <p align="left"> <a href="https://www.github.com/Bugz-gg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilyes-bechoual/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="mailto:bechoual.ilyes@gmail.com" target="_blank" rel="noreferrer">
