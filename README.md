@@ -50,7 +50,6 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/48/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo"/>  
 <h3 align="left">🔧 Tools</h3>
 <p align="left">
-  <a href="https://amazonwebservices.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40" /></a>
   <a href="https://docker.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
 </p>
 
