@@ -5,7 +5,8 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 * 🌍  I'm based in Paris, France.
 * 🖥️  Check my portfolio at [Portfolio](https://www.ibechoual-portfolio.codes/).
 * 🧠  I'm learning ML with Sklearn and Pytorch.
-* 🌱 I use Neovim btw.
+* ⚒️  Working on P2P TCP project in C and GO.
+* 🌱  I use Neovim btw.
 
 <h2 align="left">🌐 Social:</h2>
 <p align="left"> <a href="https://www.github.com/Bugz-gg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilyes-bechoual/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="mailto:bechoual.ilyes@gmail.com" target="_blank" rel="noreferrer">
@@ -20,6 +21,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
@@ -46,7 +48,6 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔧 Programming Languages:</h3>
 <p align="left">
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/48/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-light-tal-revivo"/>  
 <h3 align="left">🔧 Tools</h3>
 <p align="left">
