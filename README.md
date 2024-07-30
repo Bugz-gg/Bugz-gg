@@ -39,7 +39,6 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
   <a href="https://vim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="neovim" width="40" height="40" /></a>
   <a href="https://code.visualdio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" alt="latex" width="70" height="40" /></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" /></a>
 
