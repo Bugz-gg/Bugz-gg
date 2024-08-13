@@ -45,7 +45,12 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 </p>
 
 <h3 align="left">Badges:</h3>
-<a href="https://github.com/Bugz-gg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugz-gg&layout=donut-vertical&langs_count=5&title_color=0891b2&theme=ambient_gradient&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Bugz-gg" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugz-gg&layout=donut-vertical&langs_count=5&title_color=0891b2&theme=ambient_gradient&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bugz-gg&show_icons=true&title_color=0891b2&theme=ambient_gradient&hide_border=true&locale=en&repo=convoychat"
+    alt="Bugz-gg" /></p>
+
+<br>
+</a>
 
 **Have a nice day !**
 
