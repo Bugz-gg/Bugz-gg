@@ -37,8 +37,8 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,zig" />
   </a>
-  <h3 align="left">🔧 Tools</h3>
-#<p align="left">
+<!--  <h3 align="left">🔧 Tools</h3>
+<p align="left">
   #<a href="https://skillicons.dev">
    # <img src="https://skillicons.dev/icons?i=docker" />
  # </a>
