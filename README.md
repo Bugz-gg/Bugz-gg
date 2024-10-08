@@ -29,7 +29,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔎 Other tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex" />
+  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex,docker,kubernetes" />
   
 <h2 align="left">Incoming Tools:</h2>
 
@@ -38,11 +38,11 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
     <img src="https://skillicons.dev/icons?i=rust,zig" />
   </a>
   <h3 align="left">🔧 Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
+#<p align="left">
+  #<a href="https://skillicons.dev">
+   # <img src="https://skillicons.dev/icons?i=docker" />
+ # </a>
+#</p>
 
 <h3 align="left">Badges:</h3>
 <a href="https://github.com/Bugz-gg" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugz-gg&layout=donut-vertical&langs_count=5&title_color=0891b2&theme=ambient_gradient&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" />
