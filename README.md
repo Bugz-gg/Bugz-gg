@@ -17,7 +17,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔨 Programming languages:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,html" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,html,kotlin" />
 </p>
 
 <h3 align="left">📁 Database:</h3>
