@@ -17,7 +17,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔨 Programming languages:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,html,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,html,kotlin,java" />
 </p>
 
 <h3 align="left">📁 Database:</h3>
@@ -29,7 +29,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔎 Other tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex,docker,kubernetes,kafka,spring" />
   
 <h2 align="left">Incoming Tools:</h2>
 
