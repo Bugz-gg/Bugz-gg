@@ -29,7 +29,7 @@ Welcome to my coding corner! 🚀 I'm a passionate computer science student curr
 
 <h3 align="left">🔎 Other tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex,docker,kubernetes,kafka,spring" />
+  <img src="https://skillicons.dev/icons?i=git,bash,linux,vim,vscode,azure,latex,docker,kubernetes,kafka,spring,gcp,nginx" />
   
 <h2 align="left">Incoming Tools:</h2>
 
