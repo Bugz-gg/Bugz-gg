@@ -3,7 +3,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Welcome to my coding corner! 🚀 I'm a passionate computer science student currently pursuing my Master's degree at Enseirb-Matmeca, a leading French engineering school.
 
 * 🌍  I'm based in Paris, France.
-* 🖥️  Check my portfolio at [Portfolio](https://www.ibechoual-portfolio.codes/) Currently down.
+* 🖥️  Check my portfolio at [Portfolio](https://gray-glacier-0ff00fe03.5.azurestaticapps.net/).
 * 🧠  I'm learning ML with Sklearn and Pytorch.
 * 🌱  I use Neovim btw.
 
